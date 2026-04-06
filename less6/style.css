@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form
+{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button
+{
+    margin-left: 0 auto;
+}
+
+body
+{
+    padding: 30px;
+    background-color: rgb(100, 255, 200)    ;
+}
